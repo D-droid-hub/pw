@@ -5,7 +5,7 @@ let vapidKeys = {
     privateKey: 'u8oE2BlRlZwEWDj5iUg4ck2TkNKeK_4ZoxjZc-t5u7M'
 }
 
-push.setVapidDetails('mailto:adishu.deo@gmail.com', vapidKeys.publicKey, vapidKeys.privateKey)
+push.setVapidDetails('mailto:rachitmhes@gmail.com', vapidKeys.publicKey, vapidKeys.privateKey)
 
 let sub ={"endpoint":"https://fcm.googleapis.com/fcm/send/czlwwhxnENY:APA91bFmKIikrPkVIyqNK7w7is2uruTAmtPIYM_Pgqw3eUPshVgsc0-VB7IBuy8hNBWTAIw3W952zQfRhot2jAecCDH70rRb_CpzQkQOKLNSSukk6k7D4lmub_OllDjNfp34tf1svckf",
 "expirationTime":null,
